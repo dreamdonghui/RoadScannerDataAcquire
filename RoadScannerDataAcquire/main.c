@@ -1,33 +1,14 @@
-/*
- * RoadScannerDataAcquire.c
- *
- * Created: 2019-12-18 15:18:10
- * Author : lenovo
- */ 
-
-
-#include "sam.h"
-
-
-/** VARIABLES *****************************************************************/
-
-
-/** LOCAL PROTOTYPES **********************************************************/
-
+#include <atmel_start.h>
+#include <driver_examples.h>
 
 int main(void)
 {
-    /* Initialize the SAM system */
-    SystemInit();
+	/* Initializes MCU, drivers and middleware */
+	atmel_start_init();
 
-
-    /* Replace with your application code */
-	//将所有的PC口设置为输出。
-	REG_PORT_DIRSET2 = 0xffffffff;
-	//将所有的PC口置为低电平以点亮LED。（LED另一端为3.3V）
-	REG_PORT_OUTCLR2 = 0xffffffff;
-    while (1) 
-    {
-
-    }
+	/* Replace with your application code */
+	while (1) {
+	USART_On_USBPort_example();
+	delay_ms(1000);
+	}
 }
