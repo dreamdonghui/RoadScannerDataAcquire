@@ -26,6 +26,8 @@
       <Value>../hpl/oscctrl</Value>
       <Value>../hpl/pm</Value>
       <Value>../hpl/port</Value>
+      <Value>../hpl/sercom</Value>
+      <Value>../hpl/systick</Value>
       <Value>../hri</Value>
       <Value>%24(PackRepoDir)\atmel\SAMC21_DFP\1.2.176\samc21n\include</Value>
     </ListValues>
@@ -64,6 +66,8 @@
       <Value>../hpl/oscctrl</Value>
       <Value>../hpl/pm</Value>
       <Value>../hpl/port</Value>
+      <Value>../hpl/sercom</Value>
+      <Value>../hpl/systick</Value>
       <Value>../hri</Value>
       <Value>%24(PackRepoDir)\atmel\SAMC21_DFP\1.2.176\samc21n\include</Value>
     </ListValues>
@@ -86,6 +90,8 @@
       <Value>../hpl/oscctrl</Value>
       <Value>../hpl/pm</Value>
       <Value>../hpl/port</Value>
+      <Value>../hpl/sercom</Value>
+      <Value>../hpl/systick</Value>
       <Value>../hri</Value>
       <Value>%24(PackRepoDir)\atmel\SAMC21_DFP\1.2.176\samc21n\include</Value>
     </ListValues>

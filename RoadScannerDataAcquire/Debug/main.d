@@ -123,7 +123,22 @@ main.d main.o: .././main.c ../atmel_start.h ../driver_init.h \
  ../hal/include/hal_io.h ../hal/include/hpl_usart_async.h \
  ../hal/include/hpl_usart.h ../hal/include/hpl_irq.h \
  ../hal/utils/include/utils_ringbuffer.h ../hal/utils/include/compiler.h \
- ../hal/utils/include/utils_assert.h ../examples/driver_examples.h
+ ../hal/utils/include/utils_assert.h ../examples/driver_examples.h \
+ .././rtos_start.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/FreeRTOS.h \
+ ../Config/FreeRTOSConfig.h ../Config/peripheral_clk_config.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/projdefs.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/portable.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/deprecated_definitions.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/portable/GCC/ARM_CM0/portmacro.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/mpu_wrappers.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/task.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/list.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/semphr.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/queue.h \
+ ../thirdparty/RTOS/hal_rtos.h ../hal/include/hpl_core.h \
+ ../hpl/core/hpl_core_port.h \
+ ../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/rtos_port.h
 
 ../atmel_start.h:
 
@@ -448,3 +463,37 @@ C:\Program\ Files\ (x86)\Atmel\Studio\7.0\Packs\atmel\SAMC21_DFP\1.2.176\samc21n
 ../hal/utils/include/utils_assert.h:
 
 ../examples/driver_examples.h:
+
+.././rtos_start.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/FreeRTOS.h:
+
+../Config/FreeRTOSConfig.h:
+
+../Config/peripheral_clk_config.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/projdefs.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/portable.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/deprecated_definitions.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/portable/GCC/ARM_CM0/portmacro.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/mpu_wrappers.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/task.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/list.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/semphr.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include/queue.h:
+
+../thirdparty/RTOS/hal_rtos.h:
+
+../hal/include/hpl_core.h:
+
+../hpl/core/hpl_core_port.h:
+
+../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/rtos_port.h:
