@@ -1,0 +1,84 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~100|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|Field=Manufacturer~String~Manufacturer~100|Field=MPN~String~MPN~100|Field=Description~String~Description~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SAMC21N_Xplained_Pro.PrjPCB|ReportField=ProjectFullPath~E:\SAMC21N_Xplained_Pro\SAMC21N_XPRO_SVN\06_Hardware\Rev4_Web_release\SAMC21N_Xplained_Pro.PrjPCB|ReportField=Title~Bill of Materials Fitted For Variant [Default_assembly] of Project [SAMC21N_Xplained_Pro.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~220|ReportField=ReportTime~3:15:37 PM|ReportField=ReportDate~4/10/2017|ReportField=ReportDateTime~4/10/2017 3:15:37 PM|ReportField=OutputName~Bill of Materials Fitted|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~Default_assembly|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~M.S.K|ReportField=CompanyName~|ReportField=CurrentDate~4/10/2017|ReportField=CurrentTime~3:11:56 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\SAMC21N_Xplained_Pro\SAMC21N_XPRO_SVN\06_Hardware\Rev4_Web_release\SAMC21N_Xplained_Pro_TopLevel.SchDoc|ReportField=DocumentName~SAMC21N_Xplained_Pro_TopLevel.SchDoc|ReportField=DocumentNumber~A09-2682|ReportField=DrawnBy~Microchip India|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/8/2017|ReportField=Organization~Microchip India|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.01:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-4:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=PCBNumber~A08-2581|ReportField=PCBRevision~2|ReportField=ProjectName~SAMC21N_Xplained_Pro.PrjPCB|ReportField=ProjectTitle~ATSAMC21N-XPRO|ReportField=Revision~4|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~9|ReportField=Time~|ReportField=Title~Top Level Schematics|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=IsUserConfigurable~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~SAMC21N_Xplained_Pro.PrjPCB|ReportField=DataSourceFullPath~E:\SAMC21N_Xplained_Pro\SAMC21N_XPRO_SVN\06_Hardware\Rev4_Web_release\SAMC21N_Xplained_Pro.PrjPCB
+1|Fitted|C100, C101|2|2.2uF|Murata|GRM188R71A225KE15D|Ceramic capacitor, SMD 0603, X7R, 10V, 10%
+2|Fitted|C102, C304, C305, C306, C307, C308, C310, C311, C312, C502, C503, C506, C509, C510, C700, C701, C703, C704|18|100n|Kemet|C0402C104K4RACTU|Ceramic capacitor, SMD 0402, X7R, 16V, +/-10%
+3|Fitted|C103|1|22u/10V|tdk|C2012X5R1A226M/0.85|Ceramic capacitor, SMD 0805, X5R, 10V, Â±20%
+4|Fitted|C104, C105|2|1uF|Murata|GRM155R61A105KE15D|Ceramic capacitor, SMD 0402, X5R, 10V, 10%
+5|Fitted|C106|1|470pF|Murata|GRM1555C1H471JA01D|Ceramic capacitor, SMD 0402, NP0, 50V, +/-5%
+6|Fitted|C108, C309|2|10uF/16V|Taiyo Yuden|EMK107BBJ106MA-T|Ceramic capacitor, SMD 0603, X5R, 16V, 10UF ± 20% (High Density)
+7|Fitted|C109, C406, C407, C408|4|1 nF C0G|Murata|GRM1555C1H102JA01D|Ceramic capacitor, SMD 0402, C0G, 50V, +/-5%
+8|Fitted|C300|1|1u|Kemet|C0402C105K9PAC|Ceramic capacitor, SMD 0402, X5R, 6.3V, +/-10% (de26942)
+9|Fitted|C301|1|4.7n|||Ceramic capacitor, SMD 0402, X7R, 25V, +/-10% (de35287)
+10|Fitted|C302, C303, C501, C508|4|15p|AVX|04025A150JAT2A|Ceramic capacitor, SMD 0402, NP0, 50V, +/-5%
+11|Fitted|C400, C401|2|22p|||Ceramic capacitor, SMD 0402, NP0, 50V, +/-5%
+12|Fitted|C402|1|10p|||Ceramic capacitor, SMD 0402, NP0, 50V, +/-5%
+13|Fitted|C404, C410, C411, C412, C413|5|100n|Kemet|C0402C104K4RACTU|Ceramic capacitor, SMD 0402, X7R, 16V, +/-10%
+14|Fitted|C405, C409, C414, C415|4|2.2uF|Kemet|C0402C225M9PAC|Ceramic capacitor, SMD 0402, X5R, 6.3V, +/-20%
+15|Fitted|C500, C507|2|4.7uF|Murata|GRM21BR61E475KA12L|Ceramic capacitor, SMD 0805, X5R, 25V, ±10 %
+16|Fitted|C504|1|10uF/50V|tdk|CGA6P3X7S1H106K|Ceramic capacitor, SMD 1210, X7S , 50V, Â±10%
+17|Fitted|C505|1|220p|||Ceramic capacitor, SMD 0402, X7R, 50V, +/-10%
+18|Fitted|C600, C601, C602, C603, C604, C605, C606, C607, C608, C609, C610, C611, C612, C613, C614, C615, C616, C617, C618, C619, C620, C621, C622, C623, C624, C625|26|100n|Kemet|C0402C104K4RACTU|Ceramic capacitor, SMD 0402, X7R, 16V, +/-10%
+19|Fitted|D100|1|BAT54|Philips|BAT54|Schottky diode, V(rrm)=30V, I(f)=0.1A, V(f)=0.4V (at If = 0.01A), I(r)=0.5uA (at Vrrm), t(rr)=5ns, SMD SOT23
+20|Fitted|D400|1|SML-P11MT|ROHM|SML-P11MT-T86|LED, SMD 0402, Green, Wave length=569nm, 2.1mcd @ (1mA, 1.9Vf)
+21|Fitted|D401, D700|2|SML-P11YT|ROHM|SML-P11YT-T86|LED, SMD 0402, Yellow, Wave length=586nm, 7.6mcd @ (1mA, 1.9Vf)
+22|Fitted|D402|1|EMI2121MTTAG|ON Semiconductor|EMI2121MTTAG|EMI2121, SZEMI2121 Single Pair Common Mode Filter with ESD Protection
+23|Fitted|D500|1|BAV99|Philips|BAV99|High-speed Double Diode
+24|Fitted|E1, E2, E3, E4|4|SJ-5076|3M|SJ-5076|2.8mm adhesive feet,diam 8.0mm
+25|Fitted|F100|1|MC36213|Multicomp|MC36213|Resetable PTC fuse, Ih = 0.5A, It = 1.0A, 0805 package
+26|Fitted|FIXTURE1|1|Xplained PRO MCU board Jupiter Test Fixture|ESCATEC|Xplained PRO MCU board Jupiter Test Fixture|Xplained PRO MCU board Jupiter Test Fixture
+27|Fitted|FW1|1|EDBG secured firmware|ATMEL||EDBG secured firmware
+28|Fitted|J100|1|P101-2*02RGF-139-ND||P101-2*02RGF-139-ND|Pin header, 2x2, Right Angle, 2.54mm, THT, Pin In Paste
+29|Fitted|J101|1|Pin header 1x2 right angle|Pro-data International Corp|2213R-2G|1x2 pin header, right angle, 2.54 mm pitch, through-hole
+30|Fitted|J102, J503|2|HMTSW-103-23-F-S-237|SAMTEC|HMTSW-103-23-F-S-237|1x3 pin header, 2.54mm pitch, Pin-in-Paste THM, 1mm hole
+31|Fitted|J200, J201, J202|3|P101-2*10RGF-139-ND||P101-2*10RGF-139-ND|Pin header, 2x10, Right Angle, 2.54mm, THM, Pin In Paste
+32|Fitted|J203|1|PIN HEADER 2x5|Garry|STL21-0730 G TT-10U|2x5 pin header, 1.27mm pitch, THM
+33|Fitted|J400|1|ZX62D-AB-5P8|||Micro USB AB Connector, Standard SMT + DIP
+34|Fitted|J500, J501, J502, J505, J700|5|HMTSW-102-23-F-S-237|SAMTEC|HMTSW-102-23-F-S-237|1x2 pin header, 2.54mm pitch, Pin-in-Paste THM
+35|Fitted|J701|1|HMTSW-103-23-F-D-237|SAMTEC|HMTSW-103-23-F-D-237|2x3 pin header, 2.54mm pitch, Pin-in-Paste THM
+36|Fitted|JS100, JS101, JS500, JS501|4|SNT-100-BK-G|SAMTEC|SNT-100-BK-G|Jumper cap for 2.54mm pinheader
+37|Fitted|L300, L401, L402, L700|4|BLM18PG471SN1|Murata|BLM18PG471SN1|SMD RF inductor 0603. Z=470Ohm (@100MHz), Max R(dc)=0.65Ohm, Max current=1A
+38|Fitted|LABEL1|1|Label PCBA|ACT Logimark AS|505462|PCBA identification label PP Top White Gloss
+39|Fitted|PCB1|1|SAM C21N Xplained Pro PCB|||SAM C21N Xplained Pro PCB, 4 layer, 60mm x 100mm
+40|Fitted|PCBADOC1|1|A09-2682 PCBA Files|||SAM C21N Xplained Pro PCBA documentation
+41|Fitted|Q100, Q101, Q103|3|DMP2160UFDB|Diodes Incorporated|DMP2160UFDB-7|MOSFET 20V 3.8A DUAL P-CHAN, Rds 70 mOhms, Vgs 12V, Vds -20
+42|Fitted|Q102|1|2N7002,215|NXP|2N7002,215|N-Channel MOSFET. 60V, 0.300A continuous, 1.2A Peak. RDS(ON) = 3.8Ohm@VGS=4.5V, VGS(th)<2.5V
+43|Fitted|Q400|1|2N7002DW|Fairchild|2N7002DW|Dual N-Channel MOSFET, 60V, 115mA cont,RDS(ON) < 7.5 Ohm @50mA@5V, SOT-363
+44|Fitted|Q600, Q601|2|FDC6327C|Fairchild|FDC6327C|Dual N/P-ch MOSFET, 20V, 2.7A/-1.9A cont, 8A/-8A pulse, RDS(ON)<0.08/0.17Ohm@VGS=4.5V, VGS(th)<1.5/-1.5V, SSOT6
+45|Fitted|R100, R106, R107, R506|4|100k|||Thick film resistor, SMD 0402, 1/16W, 1%
+46|Fitted|R101|1|2R|||RES SMD 2 OHM 1% 1/16W 0402
+47|Fitted|R103, R410, R413|3|1M|||Thick film resistor, SMD 0402, 1/16W, 1%
+48|Fitted|R104, R301, R401, R402, R409, R411, R412, R503, R702|9|1k|||Thick film resistor, SMD 0402, 1/16W, 1%
+49|Fitted|R105, R502, R701|3|10k|vishay|CRCW040210K0FKED|Thick film resistor, SMD 0402, 1/16W, 1%
+50|Fitted|R109, R110, R111, R112|4|47k|||Thick film resistor, SMD 0402, 1/16W, 1%
+51|Fitted|R300, R600, R603, R604, R605, R606, R608, R613, R615, R616, R617, R622, R623, R624|14|100k|||Thick film resistor, SMD 0402, 1/16W, 1%
+52|Fitted|R304, R421, R422, R609|4|39R|||Thick film resistor, SMD 0402, 1/16W, 1%
+53|Fitted|R305, R306, R315, R316, R504|5|4.7k|||Thick film resistor, SMD 0402, 1/16W, 1%
+54|Fitted|R313, R314, R610, R611, R612, R800|6|0R|||Thick film resistor, SMD 0402, 1/16W, 1%, Thick film resistor, SMD 0402, 1/16W, 1%, Thick film resistor, SMD 0402, 1/16W, 1%, Thick film resistor, SMD 0402, 1/16W, 1%, Thick film resistor, SMD 0402, 1/16W, 1%, RES 0.0 OHM 1/16W 0402 SMD
+55|Fitted|R423|1|6.81k|||Thick film resistor, SMD 0402, 1/16W, 1%
+56|Fitted|R500, R501, R507, R508|4|62R|||Thick film resistor, SMD 1210, 0.5W, 1%
+57|Fitted|R505|1|2.7k|||Thick film resistor, SMD 0402, 1/16W, 1%
+58|Fitted|R601, R602|2|4.7k|||Thick film resistor, SMD 0402, 1/16W, 1%
+59|Fitted|R607, R614, R618, R619, R620, R621|6|330R|||Thick film resistor, SMD 0402, 1/16W, 1%
+60|Fitted|R700|1|39R|||Thick film resistor, SMD 0402, 1/16W, 1%
+61|Fitted|SW301, SW500, SW700|3|SKRAAKE010|ALPS|SKRAAKE010|6.2x6.2 mm SMD tact switch, same as A08-0091 but less force is needed
+62|Fitted|TEST1|1|SAM C21N Xplained Pro test|||Fixture eggTest for SAM C21N Xplained Pro
+63|Fitted|TESTDOC1|1|SAM C21N Xplained Pro Test Instructions|||SAM C21N Xplained Pro Test Instructions
+64|Fitted|U100|1|MIC5504-3.3YM5|Microchip|MIC5504-3.3YM5-TR|LDO 3.3V 0.3A SOT-23-5
+65|Fitted|U103|1|MIC5209-3.3YM|Microchip|MIC5209-3.3YM|Fixed 3.3V, 500mA Low-Noise LDO Regulator, SOIC-8
+66|Fitted|U300|1|ATSAM C21N18A-ANT|ATMEL|ATSAM C21N18A-ANT|Atmel 32-bit ARM Cortex-M0+ processor 100pin 256KB Flash 32KB SRAM 48MHz freq
+67|Fitted|U400|1|AT32UC3A4256J-C1UR|ATMEL|AT32UC3A4256J-C1UR|AVR 32-bit RISC MCU
+68|Fitted|U500, U502|2|ATA6561-GBQW|ATMEL|ATA6561-GBQW|5Mbit/s CAN Trasceiver,VCC = 5V, VIO = 2.8-5V, 3x3 mm VDFN8
+69|Fitted|U501|1|ATA663211-FAQW|ATMEL|ATA663211-FAQW|LIN Transceiver
+70|Fitted|U600|1|FXMA2102L8X|Fairchild|FXMA2102L8X|Dual supply, 2-bit, voltage translator, buffer, repeater, isolator for I2C applications
+71|Fitted|U601, U602, U603, U604, U605, U606, U607, U608, U609, U610, U611, U612|12|SN74LVC1T45DCKR|Texas Instruments|SN74LVC1T45DCKR|Single-Bit Dual-Supply Bus Transceiver with Configurable Voltage Translation and 3-State Outputs
+72|Fitted|U700|1|ATECC508A-MAHWF-T|ATMEL|ATECC508A-MAHWF-T|Secure authentication and product validation device, EEPROM, I2C, 2.0 - 5.5V, UDFN8
+73|Fitted|XC300|1|32.768kHz|Kyocera Crystal Device Corporation|ST3215SB32768E0HPWBB|Kyocera ST3215SB32768E0HPWBB, 32.768kHz, 9pF, SMD tuning fork crystal
+74|Fitted|XC400|1|12.0MHz|Fox  Electronics|FQ5032B-12-C-C-C-200-1|Fox FQ5032B 12.0MHz SMD crystal 738B-12
+75|Not Fitted|C107|0|2.2uF|Kemet|T494A225K010AT|Capacitor Tantalum 10V 2.2uF 10% ESR = 6 ohm
+76|Not Fitted|C318, C319|0|10p|||Ceramic capacitor, SMD 0402, NP0, 50V, +/-5%
+77|Not Fitted|C403|0|4.7n|||Ceramic capacitor, SMD 0402, X7R, 25V, +/-10%
+78|Not Fitted|J800|0|HMTSW-103-23-F-D-237|SAMTEC|HMTSW-103-23-F-D-237|2x3 pin header, 2.54mm pitch, Pin-in-Paste THM
+79|Not Fitted|J801|0|SSQ-110-21-F-S|SAMTEC|SSQ-110-21-F-S|1x10 receptacle pin header, low insertion force, 2.54mm pitch THM, Pin in Paste
+80|Not Fitted|J802, J804|0|SSQ-108-21-F-S|SAMTEC|SSQ-108-21-F-S|1x8 receptacle pin header, low insertion force, 2.54mm pitch THM, Pin in Paste
+81|Not Fitted|J803|0|SSQ-106-21-F-S|SAMTEC|SSQ-106-21-F-S|1x6 receptacle pin header, low insertion force, 2.54mm pitch THM
+82|Not Fitted|R424|0|1M|KOA|RK73H1ETTP1004F|Thick film resistor, SMD 0402, 1/16W, 1%
+83|Not Fitted|XC301|0|16.0MHz|Epson Toyocom|TSX-3225 16.0000MF09Z-AC3|16MHz uXtal, 3.2 x 2.5 mm SMD, CL=9pF, 15PPM, ESR=80ohm(Max.

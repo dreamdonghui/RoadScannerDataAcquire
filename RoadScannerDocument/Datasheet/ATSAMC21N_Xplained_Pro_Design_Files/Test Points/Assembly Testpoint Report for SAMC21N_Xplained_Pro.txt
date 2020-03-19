@@ -1,0 +1,168 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+PC08_GPIO   TP305-1      16.1898mm   29.9573mm  Bottom          0.65mm  Through hole
+PC07_GPIO   TP304-1      16.1898mm   32.4973mm  Bottom          0.65mm  Through hole
+PC06_GPIO   TP303-1      16.1898mm   35.0373mm  Bottom          0.65mm  Through hole
+PB05_GPIO   TP302-1      16.1898mm   37.5773mm  Bottom          0.65mm  Through hole
+PA02_DAC_VOUTJ700-1         9.085mm    34.555mm  Bottom             1mm  Through hole
+RESET_UNO   J802-3         2.222mm     45.87mm  Bottom             1mm  Through hole
+VS_LIN      J502-1           8.7mm    61.075mm  Bottom             1mm  Through hole
+LIN         J501-1           8.6mm   70.0425mm  Bottom             1mm  Through hole
+NetJ501_2   J501-2           8.6mm   72.5825mm  Bottom             1mm  Through hole
+CANH0       J500-1             4mm     80.06mm  Bottom             1mm  Through hole
+CANL0       J500-2             4mm      82.6mm  Bottom             1mm  Through hole
+VCC_P3V3    J102-3        36.935mm    87.475mm  Bottom             1mm  Through hole
+ID3         J202-1         41.43mm      6.97mm  Bottom             1mm  Through hole
+PA16_S1_I2C_SDAJ202-11        28.73mm      6.97mm  Bottom             1mm  Through hole
+PA17_S1_I2C_SCLJ202-12        28.73mm      4.43mm  Bottom             1mm  Through hole
+PC16_S6_UART_TXJ202-14        26.19mm      4.43mm  Bottom             1mm  Through hole
+PC17_S6_UART_RXJ202-13        26.19mm      6.97mm  Bottom             1mm  Through hole
+PC14_S7_SPI_MOSIJ202-16        23.65mm      4.43mm  Bottom             1mm  Through hole
+PC13_S7_SPI_SSJ202-15        23.65mm      6.97mm  Bottom             1mm  Through hole
+PC11_S7_SPI_SCKJ202-18        21.11mm      4.43mm  Bottom             1mm  Through hole
+PC12_S7_SPI_MISOJ202-17        21.11mm      6.97mm  Bottom             1mm  Through hole
+PA28_GPIO_IRQ8J202-9         31.27mm      6.97mm  Bottom             1mm  Through hole
+PB22_TCC1_WO2J202-7         33.81mm      6.97mm  Bottom             1mm  Through hole
+PB23_TCC1_WO3J202-8         33.81mm      4.43mm  Bottom             1mm  Through hole
+PC18_S6_RTS_TEJ202-5         36.35mm      6.97mm  Bottom             1mm  Through hole
+PC19_S6_CTS J202-6         36.35mm      4.43mm  Bottom             1mm  Through hole
+PB07_AIN9_INP2J202-3         38.89mm      6.97mm  Bottom             1mm  Through hole
+PB06_AIN8_INN2J202-4         38.89mm      4.43mm  Bottom             1mm  Through hole
+PA27_GPIO_SSJ202-10        31.27mm      4.43mm  Bottom             1mm  Through hole
+PA23_GPIO_X11_Y27J200-10        55.57mm     61.11mm  Bottom             1mm  Through hole
+PB08_INN1_Y14J200-4         55.57mm     68.73mm  Bottom             1mm  Through hole
+PB09_INP1_Y15J200-3         53.03mm     68.73mm  Bottom             1mm  Through hole
+PA11_S2_CTS_Y19J200-6         55.57mm     66.19mm  Bottom             1mm  Through hole
+PA10_S2_RTS_TE_Y18J200-5         53.03mm     66.19mm  Bottom             1mm  Through hole
+PB13_TC4_WO1_X13_Y29J200-8         55.57mm     63.65mm  Bottom             1mm  Through hole
+PB12_TC4_WO0_X12_Y28J200-7         53.03mm     63.65mm  Bottom             1mm  Through hole
+PA22_IRQ6_X10_Y26J200-9         53.03mm     61.11mm  Bottom             1mm  Through hole
+PC27_S1_SPI_MISOJ200-17        53.03mm     50.95mm  Bottom             1mm  Through hole
+PA19_S1_SPI_SCK_Y23J200-18        55.57mm     50.95mm  Bottom             1mm  Through hole
+PC28_S1_SPI_SSJ200-15        53.03mm     53.49mm  Bottom             1mm  Through hole
+PA18_S1_SPI_MOSI_Y22J200-16        55.57mm     53.49mm  Bottom             1mm  Through hole
+PA13_S2_UART_RXJ200-13        53.03mm     56.03mm  Bottom             1mm  Through hole
+PA12_S2_UART_TXJ200-14        55.57mm     56.03mm  Bottom             1mm  Through hole
+PB17_S5_I2C_SCLJ200-12        55.57mm     58.57mm  Bottom             1mm  Through hole
+PB16_S5_I2C_SDAJ200-11        53.03mm     58.57mm  Bottom             1mm  Through hole
+VCC_TARGET_P3V3_P5V0J200-20        55.57mm     48.41mm  Bottom             1mm  Through hole
+ID1         J200-1         53.03mm     71.27mm  Bottom             1mm  Through hole
+PA03_ADC_DAC_VREFJ701-4        11.175mm    42.865mm  Bottom             1mm  Through hole
+VCC_AREF_P3V3_P5V0J701-1         8.635mm    40.325mm  Bottom             1mm  Through hole
+PA04_SDADC_VREFJ701-3        11.175mm    40.325mm  Bottom             1mm  Through hole
+PC10_GPIO   TP306-1      16.1898mm   27.4973mm  Bottom          0.65mm  Through hole
+PA30_SWCLK  J203-4         56.28mm    77.425mm  Bottom          0.65mm  Through hole
+PA31_SWDIO  J203-2         57.55mm    77.425mm  Bottom          0.65mm  Through hole
+TARGET_RESET_CONJ203-10        52.47mm    77.425mm  Bottom          0.65mm  Through hole
+VCC_MCU_P3V3_P5V0J101-1         18.73mm     89.05mm  Bottom             1mm  Through hole
+VCC_TARGET_X_P3V3_P5V0J101-2         21.27mm     89.05mm  Bottom             1mm  Through hole
+PC25_GPIO   J201-10        55.57mm     25.55mm  Bottom             1mm  Through hole
+PA09_AIN11_X1J201-4         55.57mm     33.17mm  Bottom             1mm  Through hole
+PA08_AIN10_X0J201-3         53.03mm     33.17mm  Bottom             1mm  Through hole
+PA21_S3_CTS_X9J201-6         55.57mm     30.63mm  Bottom             1mm  Through hole
+PA20_S3_RTS_TE_X8J201-5         53.03mm     30.63mm  Bottom             1mm  Through hole
+PB31_PWM_TC0_WO1J201-8         55.57mm     28.09mm  Bottom             1mm  Through hole
+PB30_PWM_TC0_WO0J201-7         53.03mm     28.09mm  Bottom             1mm  Through hole
+PC24_GPIO_IRQ0J201-9         53.03mm     25.55mm  Bottom             1mm  Through hole
+PB02_S5_SPI_MISOJ201-17        53.03mm     15.39mm  Bottom             1mm  Through hole
+PB01_S5_SPI_SCKJ201-18        55.57mm     15.39mm  Bottom             1mm  Through hole
+PB03_S5_SPI_SSJ201-15        53.03mm     17.93mm  Bottom             1mm  Through hole
+PB00_S5_SPI_MOSIJ201-16        55.57mm     17.93mm  Bottom             1mm  Through hole
+PB21_S3_UART_RXJ201-13        53.03mm     20.47mm  Bottom             1mm  Through hole
+PB20_S3_UART_TXJ201-14        55.57mm     20.47mm  Bottom             1mm  Through hole
+ID2         J201-1         53.03mm     35.71mm  Bottom             1mm  Through hole
+VCC_TARGET_SWITCH_P3V3_P5V0J100-4         55.57mm     83.97mm  Bottom             1mm  Through hole
+VCC_IN_P5V0 J100-3         53.03mm     83.97mm  Bottom             1mm  Through hole
+VCC_EXT_P5V0J100-1         53.03mm     86.51mm  Bottom             1mm  Through hole
+CANH1       J505-1             4mm     90.59mm  Bottom             1mm  Through hole
+CANL1       J505-2             4mm     93.13mm  Bottom             1mm  Through hole
+VS          J503-1         2.222mm     64.43mm  Bottom             1mm  Through hole
+PC26_GPIO   J801-1        50.482mm    37.234mm  Bottom             1mm  Through hole
+PB18_GPIO_S5_SPI_SSJ801-3        50.482mm    42.314mm  Bottom             1mm  Through hole
+PC21_GPIO   J804-5        50.482mm     25.55mm  Bottom             1mm  Through hole
+PA15_PWM_TC3_WO1J804-6        50.482mm     28.09mm  Bottom             1mm  Through hole
+PB04_GPIO   J804-8        50.482mm     33.17mm  Bottom             1mm  Through hole
+PC20_GPIO   J804-3        50.482mm     20.47mm  Bottom             1mm  Through hole
+PA14_PWM_TC3_WO0J804-4        50.482mm     23.01mm  Bottom             1mm  Through hole
+PB24_S0_UART_TXJ804-2        50.482mm     17.93mm  Bottom             1mm  Through hole
+PB25_S0_UART_RXJ804-1        50.482mm     15.39mm  Bottom             1mm  Through hole
+PC01_ADC0_AIN9J803-4         2.222mm     20.47mm  Bottom             1mm  Through hole
+PC00_ADC0_AIN8J803-3         2.222mm     23.01mm  Bottom             1mm  Through hole
+PC03_ADC0_AIN11J803-6         2.222mm     15.39mm  Bottom             1mm  Through hole
+PC02_ADC0_AIN10J803-5         2.222mm     17.93mm  Bottom             1mm  Through hole
+SHIELD      J400-9        42.175mm      95.2mm  Bottom          0.65mm  Through hole
+PC09_SPI_S7_SSFree-3       22.3177mm   59.8199mm  Bottom             0mm  Surface mount
+EDBG_CDC_UART_RXFree-3         39.85mm     73.85mm  Bottom             0mm  Surface mount
+VCC_TARGET_GATEFree-3       11.4103mm    86.438mm  Bottom             0mm  Surface mount
+NetQ103_3   Free-3        23.025mm     85.15mm  Bottom             0mm  Surface mount
+EDBG_SWCLK  Free-3        43.425mm   73.9375mm  Bottom             0mm  Surface mount
+EDBG_SWD_SWDIO_OEFree-3          37.5mm      73.2mm  Bottom             0mm  Surface mount
+TARGET_SWCLKFree-3          49.2mm    67.425mm  Bottom             0mm  Surface mount
+TARGET_SWDIOFree-3          48.5mm   64.3625mm  Bottom             0mm  Surface mount
+TARGET_RESET_SENSE_XFree-3       13.7625mm    68.475mm  Bottom             0mm  Surface mount
+PB11_S4_CDC_RXFree-3       46.9667mm   62.7246mm  Bottom             0mm  Surface mount
+NetQ101_3   Free-3         48.95mm      84.1mm  Bottom             0mm  Surface mount
+EDBG_SWD_SWCLK_OEFree-3       48.6375mm   65.9875mm  Bottom             0mm  Surface mount
+EDBG_DGI_GPIO2_ENFree-3       34.4573mm   60.6336mm  Bottom             0mm  Surface mount
+T\A\R\G\E\T\_\V\C\C\_\E\N\A\B\L\E\Free-3       31.4705mm   85.2125mm  Bottom             0mm  Surface mount
+EDBG_DGI_GPIO3_ENFree-3       31.4275mm   74.3775mm  Bottom             0mm  Surface mount
+EDBG_DGI_SPI_MISOFree-3        26.675mm    72.925mm  Bottom             0mm  Surface mount
+EDBG_DGI_SPI_SCKFree-3         27.65mm    77.025mm  Bottom             0mm  Surface mount
+NetQ400_3   Free-3        57.425mm      93.7mm  Bottom             0mm  Surface mount
+NetQ400_6   Free-3            57mm    87.225mm  Bottom             0mm  Surface mount
+NetC405_1   Free-3         34.75mm   86.5625mm  Bottom             0mm  Surface mount
+NetC402_1   Free-3          41.2mm     80.35mm  Bottom             0mm  Surface mount
+EDBG_ADC1   Free-3          25.1mm     79.15mm  Bottom             0mm  Surface mount
+VCC_P5V0    Free-3       38.9744mm   96.4408mm  Bottom             0mm  Surface mount
+NetQ601_1   Free-0       14.7375mm    60.125mm  Bottom             0mm  Surface mount
+VCC_EDBG_P3V3TP407-1         21.4mm      92.5mm  Bottom             0mm  Surface mount
+EDBG_RESET_NTP406-1         21.4mm      96.5mm  Bottom             0mm  Surface mount
+EDBG_JTAG_TMSTP405-1         18.4mm      92.5mm  Bottom             0mm  Surface mount
+EDBG_JTAG_TDOTP404-1         21.4mm      94.5mm  Bottom             0mm  Surface mount
+EDBG_JTAG_TDITP403-1         18.4mm      94.5mm  Bottom             0mm  Surface mount
+EDBG_JTAG_TCKTP402-1         18.4mm      96.5mm  Bottom             0mm  Surface mount
+EDBG_FORCE_BOOTTP401-1         21.4mm      98.5mm  Bottom             0mm  Surface mount
+GND         TP400-1         18.4mm      98.5mm  Bottom             0mm  Surface mount
+NetR304_1   TP301-1           34mm      98.5mm  Bottom             0mm  Surface mount
+NetR700_1   TP300-1           27mm      98.5mm  Bottom             0mm  Surface mount
+PA06_S0_LIN_TXVia          24.3398mm   61.0773mm  Bottom          0.25mm  Through hole
+VCC_MCU_COREVia          31.4639mm   56.1167mm  Bottom          0.25mm  Through hole
+PA07_S0_LIN_RXVia          25.9603mm    40.738mm  Bottom          0.25mm  Through hole
+PB10_S4_CDC_TXVia          28.3663mm        47mm  Bottom          0.25mm  Through hole
+PA24_CAN0_TXVia          16.0234mm   77.1266mm  Bottom          0.25mm  Through hole
+PB15_CAN1_RXVia          14.3282mm   94.5574mm  Bottom          0.25mm  Through hole
+NetJ506_1   Via          11.3782mm   88.2574mm  Bottom          0.25mm  Through hole
+TARGET_RESET_SENSEVia          18.2371mm   76.5816mm  Bottom          0.25mm  Through hole
+PB19_GPIO_IRQ3Via          21.0663mm      53.5mm  Bottom          0.25mm  Through hole
+PC15_GPIO_LIN_ENVia          25.1663mm      30.7mm  Bottom          0.25mm  Through hole
+PC05_TCC2_WO1Via          26.7538mm   61.2338mm  Bottom          0.25mm  Through hole
+VCC_EXT_GATEVia          46.7625mm    85.475mm  Bottom          0.25mm  Through hole
+EDBG_SWDIO  Via           43.875mm    71.875mm  Bottom          0.25mm  Through hole
+EDBG_DGI_GPIO1_ENVia          33.7375mm    71.475mm  Bottom          0.25mm  Through hole
+EDBG_DGI_GPIO1Via          37.7625mm     71.25mm  Bottom          0.25mm  Through hole
+STATUS_LED_CTRLVia             58.8mm    87.275mm  Bottom          0.25mm  Through hole
+EDBG_DGI_SPI_MOSIVia           25.275mm    73.525mm  Bottom          0.25mm  Through hole
+NetD500_2   Via            10.45mm    67.655mm  Bottom          0.25mm  Through hole
+NetJ504_1   Via           12.475mm      79.2mm  Bottom          0.25mm  Through hole
+NetR502_1   Via           12.325mm    71.425mm  Bottom          0.25mm  Through hole
+NetC500_1   Via            7.625mm    81.275mm  Bottom          0.25mm  Through hole
+EDBG_DGI_SPI_OEVia            32.25mm    72.575mm  Bottom          0.25mm  Through hole
+POWER_LED_CTRLVia             38.8mm    84.925mm  Bottom          0.25mm  Through hole
+TARGET_RESETVia           41.525mm   77.1875mm  Bottom          0.25mm  Through hole
+EDBG_ADC0   Via           26.575mm    82.975mm  Bottom          0.25mm  Through hole
+EDBG_DGI_SPI_SSVia           30.075mm        75mm  Bottom          0.25mm  Through hole
+NetC407_1   Via            46.65mm      92.6mm  Bottom          0.25mm  Through hole
+NetC404_1   Via             30.1mm    79.975mm  Bottom          0.25mm  Through hole
+NetD400_1   Via           53.275mm     89.45mm  Bottom          0.25mm  Through hole
+NetD401_1   Via           58.925mm     93.25mm  Bottom          0.25mm  Through hole
+EDBG_DGI_I2C_SDAVia          38.5375mm      61.1mm  Bottom          0.25mm  Through hole
+EDBG_DGI_I2C_SCLVia          38.4625mm    62.425mm  Bottom          0.25mm  Through hole
+EDBG_CDC_UART_OEVia          38.7875mm   72.2625mm  Bottom          0.25mm  Through hole
+EDBG_DGI_I2C_OEVia            42.75mm      62.6mm  Bottom          0.25mm  Through hole
+TARGET_RESET_SENSE_LEVELVia           14.875mm     72.15mm  Bottom          0.25mm  Through hole
+PA25_CAN0_RXVia             15.1mm      79.3mm  Bottom          0.25mm  Through hole
+NetD100_1   Via          29.5125mm   85.0875mm  Bottom          0.25mm  Through hole
+PB14_CAN1_TXVia             16.4mm     90.85mm  Bottom          0.25mm  Through hole
+VCC_MCU_VDDANAVia          15.6876mm     44.55mm  Bottom          0.25mm  Through hole
+EDBG_DGI_GPIO2Via          30.7103mm    61.888mm  Bottom          0.25mm  Through hole
+NetC507_1   Via           10.675mm   89.9087mm  Bottom          0.25mm  Through hole
+VCC_EDBG_USB_P5V0Via          44.8877mm   83.2937mm  Bottom          0.25mm  Through hole
