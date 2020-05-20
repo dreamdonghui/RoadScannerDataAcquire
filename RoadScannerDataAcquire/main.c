@@ -1,16 +1,15 @@
 #include <atmel_start.h>
 #include <driver_examples.h>
-#include "rtos_start.h"
+#include "Hui_rtos_start.h"
 
 int main(void)
 {
 	/* Initializes MCU, drivers and middleware */
 	atmel_start_init();
-	FREERTOS_V1000_0_example();
+	Hui_FREERTOS_V1000_0_example();
 
 	/* Replace with your application code */
 	while (1) {
-	USART_On_USBPort_example();
-	delay_ms(1000);
+// Since we added the FreeRTOS system to manage the task, this loop will never be executed.
 	}
 }

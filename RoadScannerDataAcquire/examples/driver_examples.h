@@ -14,6 +14,8 @@ extern "C" {
 
 void USART_On_USBPort_example(void);
 
+void SPI_0_example(void);
+
 void delay_example(void);
 
 #ifdef __cplusplus

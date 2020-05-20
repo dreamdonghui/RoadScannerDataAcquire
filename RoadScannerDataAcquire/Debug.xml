@@ -29,6 +29,11 @@
       <Value>../hpl/sercom</Value>
       <Value>../hpl/systick</Value>
       <Value>../hri</Value>
+      <Value>../thirdparty/RTOS</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/portable/GCC/ARM_CM0</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/module_config</Value>
       <Value>%24(PackRepoDir)\atmel\SAMC21_DFP\1.2.176\samc21n\include</Value>
     </ListValues>
   </armgcc.compiler.directories.IncludePaths>
@@ -69,6 +74,11 @@
       <Value>../hpl/sercom</Value>
       <Value>../hpl/systick</Value>
       <Value>../hri</Value>
+      <Value>../thirdparty/RTOS</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/portable/GCC/ARM_CM0</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/module_config</Value>
       <Value>%24(PackRepoDir)\atmel\SAMC21_DFP\1.2.176\samc21n\include</Value>
     </ListValues>
   </armgcc.assembler.general.IncludePaths>
@@ -93,6 +103,11 @@
       <Value>../hpl/sercom</Value>
       <Value>../hpl/systick</Value>
       <Value>../hri</Value>
+      <Value>../thirdparty/RTOS</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/include</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/Source/portable/GCC/ARM_CM0</Value>
+      <Value>../thirdparty/RTOS/freertos/FreeRTOSV10.0.0/module_config</Value>
       <Value>%24(PackRepoDir)\atmel\SAMC21_DFP\1.2.176\samc21n\include</Value>
     </ListValues>
   </armgcc.preprocessingassembler.general.IncludePaths>

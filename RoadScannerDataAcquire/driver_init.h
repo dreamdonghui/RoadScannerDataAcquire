@@ -23,13 +23,21 @@ extern "C" {
 
 #include <hal_usart_async.h>
 
+#include <hal_spi_s_async.h>
+
 #include <hal_delay.h>
 
 extern struct usart_async_descriptor USART_On_USBPort;
 
+extern struct spi_s_async_descriptor SPI_0;
+
 void USART_On_USBPort_PORT_init(void);
 void USART_On_USBPort_CLOCK_init(void);
 void USART_On_USBPort_init(void);
+
+void SPI_0_PORT_init(void);
+void SPI_0_CLOCK_init(void);
+void SPI_0_init(void);
 
 void delay_driver_init(void);
 

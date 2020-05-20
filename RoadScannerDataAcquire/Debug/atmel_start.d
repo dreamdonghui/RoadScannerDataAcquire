@@ -123,7 +123,9 @@ atmel_start.d atmel_start.o: .././atmel_start.c ../atmel_start.h \
  ../hal/include/hal_io.h ../hal/include/hpl_usart_async.h \
  ../hal/include/hpl_usart.h ../hal/include/hpl_irq.h \
  ../hal/utils/include/utils_ringbuffer.h ../hal/utils/include/compiler.h \
- ../hal/utils/include/utils_assert.h
+ ../hal/utils/include/utils_assert.h ../hal/include/hal_spi_s_async.h \
+ ../hal/include/hpl_spi_s_async.h ../hal/include/hpl_spi_async.h \
+ ../hal/include/hpl_spi.h ../hal/utils/include/utils.h
 
 ../atmel_start.h:
 
@@ -446,3 +448,13 @@ C:\Program\ Files\ (x86)\Atmel\Studio\7.0\Packs\atmel\SAMC21_DFP\1.2.176\samc21n
 ../hal/utils/include/compiler.h:
 
 ../hal/utils/include/utils_assert.h:
+
+../hal/include/hal_spi_s_async.h:
+
+../hal/include/hpl_spi_s_async.h:
+
+../hal/include/hpl_spi_async.h:
+
+../hal/include/hpl_spi.h:
+
+../hal/utils/include/utils.h:

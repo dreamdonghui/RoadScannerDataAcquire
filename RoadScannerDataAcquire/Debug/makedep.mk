@@ -24,6 +24,8 @@ hal\src\hal_io.c
 
 hal\src\hal_sleep.c
 
+hal\src\hal_spi_s_async.c
+
 hal\src\hal_usart_async.c
 
 hal\utils\src\utils_assert.c
@@ -57,6 +59,12 @@ hpl\pm\hpl_pm.c
 hpl\sercom\hpl_sercom.c
 
 hpl\systick\hpl_systick.c
+
+HUI\Hui_rtos_start.c
+
+HUI\Hui_DinPort.c
+
+HUI\Hui_USBPort.c
 
 main.c
 
